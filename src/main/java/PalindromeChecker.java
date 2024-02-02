@@ -58,3 +58,4 @@ public String noSpaces(String sWord){
     answer = answer + sWord.substring(i,i+1);
     return answer.toLowerCase(); 
 }
+}
